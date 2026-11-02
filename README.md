@@ -241,4 +241,4 @@ This repository serves as the official landing page for Pepakura Designer. The s
 **Get the most recent version of Pepakura Designer today!**
 
 ---
-**Last updated:** 2026-11-01 22:39:52 UTC
+**Last updated:** 2026-11-02 02:14:57 UTC
